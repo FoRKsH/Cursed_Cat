@@ -1,5 +1,5 @@
 # Cursed_Cat
-a Game For GGJ2022
+a Game For GGJ2022 (for PC Windows)
 
 ## GAME DESIGN
 - ABDULLAH ALSAYED
